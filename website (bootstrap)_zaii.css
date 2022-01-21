@@ -1,0 +1,28 @@
+.banner {
+  background: url("https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGRlc2t0b3B8ZW58MHx8MHx8&w=1000&q=80") no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: white;
+}
+.lingkaran {
+  display: inline-block;
+  border-radius: 50%;
+  width: 100px;
+  margin: auto;
+  height: 100px;
+  color: white;
+  background-color: #6c757d;
+}
+
+.lingkaran i {
+  position: relative;
+  top: 20px;
+}
+.kontak {
+  background: url("https://images.unsplash.com/photo-1616004655123-818cbd4b3143?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80") no-repeat center center;
+  background-size: cover;
+  padding-bottom: 20%;
+  padding-top: 20%;
+  color: #fff;
+}
